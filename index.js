@@ -91,6 +91,7 @@ const ScrollTab = React.createClass({
         let newx = this._tabsMeasurements[position].left;
 
         newx -= (containerWidth - tabWidth - nextTabWidth) / 2;
+        newx -= this._tabsMeasurements[position].width/2;
         newx = newx >= 0 ? newx : 0;
         if (Platform.OS === 'android') {
             this._scrollView.scrollTo({x: newScrollX, y: 0, animated: false, });
