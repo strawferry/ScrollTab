@@ -1,6 +1,8 @@
 # ScrollTab
 ## 效果展示
-![图片]('https://github.com/strawferry/ScrollTab/blob/master/gif.gif')
+
+![](https://github.com/strawferry/ScrollTab/blob/master/gif.gif?raw=true)
+
 ## 安装方法
 
 `npm i --save react-native-scrolltab`
