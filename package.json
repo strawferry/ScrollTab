@@ -1,0 +1,23 @@
+{
+  "name": "react-native-scrolltab",
+  "version": "0.1.0",
+  "description": "ScrollTab",
+  "main": "index.js",
+  "peerDependencies": {
+    "react-native": ">=0.20.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strawferry/ScrollTab.git"
+  },
+  "keywords": ["scroll", "tab", "ReactNative", "ScrollTab"],
+  "author": "ferryvip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strawferry/ScrollTab/issues"
+  },
+  "homepage": "https://github.com/strawferry/ScrollTab#readme"
+}
